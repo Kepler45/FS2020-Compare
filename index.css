@@ -1,0 +1,41 @@
+body {
+  margin: 0px;
+  font-family: sans-serif;
+  background-color: #333;
+}
+
+table {
+  min-width: 70%;
+  border-collapse: collapse;
+  background-color: #eee;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header {
+  background-color: #aabbdd;
+}
+
+.label {
+  padding-left: 30px;
+}
+
+td {
+  padding: 10px 0px;
+}
+
+.tr1 {
+  background-color: #ddd;
+}
+
+.tr2 {
+  background-color: #ccc;
+}
+
+.fa-check {
+  color: green;
+}
+
+.fa-times {
+  color: red;
+}
